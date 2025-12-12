@@ -12,3 +12,4 @@
 | 7  | Observability (Debug в Actions)  | Вы знаете, как включить debug-логирование и перезапустить workflow через UI.        |
 | 8  | GitHub Actions badge             | В README отображается badge со статусом последней сборки, клик ведёт на Actions.    |
 | 9  | SonarLint установлен             | Плагин lint.SonarLint установлен в IntelliJ IDEA, скриншот подготовлен для платформы.   |
+### PR workflow проверен.
